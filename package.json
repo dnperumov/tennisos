@@ -1,0 +1,6 @@
+{
+  "name": "tennisos",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" }
+}
